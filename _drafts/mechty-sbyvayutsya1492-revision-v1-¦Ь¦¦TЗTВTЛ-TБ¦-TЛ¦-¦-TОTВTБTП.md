@@ -1,0 +1,16 @@
+---
+id: 1498
+title: Мечты сбываются!
+date: 2018-10-29T17:26:14+07:00
+author: Лариса Бурухина
+layout: revision
+guid: http://buruhina.ru/pedagogika/1492-revision-v1
+permalink: /pedagogika/1492-revision-v1
+---
+Я давно мечтала посетить мастер-класс по рисованию шерстью. И вот мечта сбылась! Я пригласила в школу мастера. Анастасия Широкова с удовольствием откликнулась на мою просьбу, провести занятие в нашей школе. К сожалению учениц было мало, но с удовольствием занимались учителя и родители. Релаксация! Много положительных эмоций. В итоге замечательные работы.  
+[<img src="http://buruhina.ru/wp-content/uploads/2018/10/20181027_111852-300x169.jpg" alt="" width="300" height="169" class="alignnone size-medium wp-image-1493" srcset="http://buruhina.ru/wp-content/uploads/2018/10/20181027_111852-300x169.jpg 300w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_111852-768x432.jpg 768w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_111852-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://buruhina.ru/wp-content/uploads/2018/10/20181027_111852.jpg)  
+[<img src="http://buruhina.ru/wp-content/uploads/2018/10/20181027_120057-169x300.jpg" alt="" width="169" height="300" class="alignnone size-medium wp-image-1494" srcset="http://buruhina.ru/wp-content/uploads/2018/10/20181027_120057-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_120057-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_120057-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" />](http://buruhina.ru/wp-content/uploads/2018/10/20181027_120057.jpg)  
+[<img src="http://buruhina.ru/wp-content/uploads/2018/10/20181027_125002-169x300.jpg" alt="" width="169" height="300" class="alignnone size-medium wp-image-1495" srcset="http://buruhina.ru/wp-content/uploads/2018/10/20181027_125002-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_125002-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_125002-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" />](http://buruhina.ru/wp-content/uploads/2018/10/20181027_125002.jpg)  
+[<img src="http://buruhina.ru/wp-content/uploads/2018/10/20181027_193317-191x300.jpg" alt="" width="191" height="300" class="alignnone size-medium wp-image-1496" srcset="http://buruhina.ru/wp-content/uploads/2018/10/20181027_193317-191x300.jpg 191w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_193317-768x1207.jpg 768w, http://buruhina.ru/wp-content/uploads/2018/10/20181027_193317-651x1024.jpg 651w" sizes="(max-width: 191px) 100vw, 191px" />](http://buruhina.ru/wp-content/uploads/2018/10/20181027_193317.jpg)  
+[<img src="http://buruhina.ru/wp-content/uploads/2018/10/0186F6L1dZ4-300x278.jpg" alt="" width="300" height="278" class="alignnone size-medium wp-image-1497" srcset="http://buruhina.ru/wp-content/uploads/2018/10/0186F6L1dZ4-300x278.jpg 300w, http://buruhina.ru/wp-content/uploads/2018/10/0186F6L1dZ4-768x711.jpg 768w, http://buruhina.ru/wp-content/uploads/2018/10/0186F6L1dZ4-1024x948.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://buruhina.ru/wp-content/uploads/2018/10/0186F6L1dZ4.jpg)  
+Надо идти к своей мечте навстречу!

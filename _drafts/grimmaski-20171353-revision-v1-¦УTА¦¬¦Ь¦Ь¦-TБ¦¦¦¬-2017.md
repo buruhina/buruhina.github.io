@@ -1,0 +1,155 @@
+---
+id: 1581
+title: ГриММаски 2017
+date: 2018-12-01T19:46:29+07:00
+author: Лариса Бурухина
+layout: revision
+guid: http://buruhina.ru/pedagogika/1353-revision-v1
+permalink: /pedagogika/1353-revision-v1
+---
+Ежегодно коллектив театр моды 'Бум' принимает участие в различных конкурсах, но традиционным является конкурс ГриММаски. В этом году коллектив представил две коллекции. Старшая группа выполнила коллекцию 'Узоречье'. Которая выполнена из льна и расписана в ручную акриловыми красками. Был снят фильм о коллекции и представлен на Международном конкурсе 'Бронзовый витязь'.Коллектив придерживается своего девиза: Самипридумываем! Самиизготавливаем! Самидемонстрируем!  
+
+
+<div id="attachment_1563" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Малютина-Анна.jpg"><img aria-describedby="caption-attachment-1563" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Малютина-Анна-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1563" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Малютина-Анна-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Малютина-Анна-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Малютина-Анна-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1563" class="wp-caption-text">
+    Малютина Анна
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1565" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Парафейникова-Юлия.jpg"><img aria-describedby="caption-attachment-1565" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Парафейникова-Юлия-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1565" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Парафейникова-Юлия-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Парафейникова-Юлия-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Парафейникова-Юлия-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1565" class="wp-caption-text">
+    Парафейникова Юлия
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1566" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Хасанова-Оля.jpg"><img aria-describedby="caption-attachment-1566" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Хасанова-Оля-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1566" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Хасанова-Оля-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Хасанова-Оля-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Хасанова-Оля-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1566" class="wp-caption-text">
+    Хасанова Ольга
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1567" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Игнатьева-Дарья.jpg"><img aria-describedby="caption-attachment-1567" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Игнатьева-Дарья-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1567" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Игнатьева-Дарья-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Игнатьева-Дарья-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Игнатьева-Дарья-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1567" class="wp-caption-text">
+    Игнатьева Дарья
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1568" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Солодовникова-Ира.jpg"><img aria-describedby="caption-attachment-1568" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Солодовникова-Ира-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1568" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Солодовникова-Ира-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Солодовникова-Ира-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Солодовникова-Ира-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1568" class="wp-caption-text">
+    Солодовникова Ирина
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1569" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Королева-Катя.jpg"><img aria-describedby="caption-attachment-1569" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Королева-Катя-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1569" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Королева-Катя-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Королева-Катя-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Королева-Катя-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1569" class="wp-caption-text">
+    Королева Екатерина
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1570" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Ерёмкина-Диана.jpg"><img aria-describedby="caption-attachment-1570" src="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Ерёмкина-Диана-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1570" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Ерёмкина-Диана-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Ерёмкина-Диана-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Узоречье-Ерёмкина-Диана-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1570" class="wp-caption-text">
+    Ерёмкина Диана
+  </p>
+</div>
+
+Вторая коллекция 'Безопасная дорога'. Данную коллекцию выполняли юные участники коллектива, которым всего 11-12 лет. Причем один мальчик, который тоже научился шить на швейной машине. Коллекция интересна тем, что безопасность превыше всего, а в такой одежде не страшно прогуляться вечером. Нашей промышленности нужно обратить внимание на нашу коллекцию!
+
+<div id="attachment_1571" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорогаЧерепанова-Лида.jpg"><img aria-describedby="caption-attachment-1571" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорогаЧерепанова-Лида-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1571" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорогаЧерепанова-Лида-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорогаЧерепанова-Лида-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорогаЧерепанова-Лида-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1571" class="wp-caption-text">
+    Черепанова Диана
+  </p>
+</div>
+
+  
+
+
+<div id="attachment_1572" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Малютина-Настя.jpg"><img aria-describedby="caption-attachment-1572" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Малютина-Настя-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1572" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Малютина-Настя-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Малютина-Настя-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Малютина-Настя-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1572" class="wp-caption-text">
+    Малютина Анастасия
+  </p>
+</div>
+
+<div id="attachment_1573" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Митрофанова-катя.jpg"><img aria-describedby="caption-attachment-1573" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Митрофанова-катя-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1573" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Митрофанова-катя-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Митрофанова-катя-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Митрофанова-катя-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1573" class="wp-caption-text">
+    Митрофанова Екатерина
+  </p>
+</div>
+
+<div id="attachment_1574" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопсная-дорога-Новикова-Эвелина.jpg"><img aria-describedby="caption-attachment-1574" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопсная-дорога-Новикова-Эвелина-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1574" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопсная-дорога-Новикова-Эвелина-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопсная-дорога-Новикова-Эвелина-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопсная-дорога-Новикова-Эвелина-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1574" class="wp-caption-text">
+    Новикова Эвелина
+  </p>
+</div>
+
+<div id="attachment_1575" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Ерёмкина-Диана.jpg"><img aria-describedby="caption-attachment-1575" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Ерёмкина-Диана-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1575" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Ерёмкина-Диана-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Ерёмкина-Диана-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Ерёмкина-Диана-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1575" class="wp-caption-text">
+    Ерёмкина Диана
+  </p>
+</div>
+
+<div id="attachment_1576" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Погребняк-Настя.jpg"><img aria-describedby="caption-attachment-1576" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Погребняк-Настя-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1576" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Погребняк-Настя-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Погребняк-Настя-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Погребняк-Настя-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1576" class="wp-caption-text">
+    Погребняк Анастасия
+  </p>
+</div>
+
+<div id="attachment_1577" style="width: 179px" class="wp-caption alignnone">
+  <a href="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Бондаренко-Сережа.jpg"><img aria-describedby="caption-attachment-1577" src="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Бондаренко-Сережа-169x300.jpg" alt="" width="169" height="300" class="size-medium wp-image-1577" srcset="http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Бондаренко-Сережа-169x300.jpg 169w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Бондаренко-Сережа-768x1365.jpg 768w, http://buruhina.ru/wp-content/uploads/2017/06/Безопасная-дорога-Бондаренко-Сережа-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></a>
+  
+  <p id="caption-attachment-1577" class="wp-caption-text">
+    Бондаренко Сергей
+  </p>
+</div>
+
+  
+Ребята достойно выступили и получили большое удовольствие. Дипломы получили: Солодовникова Ира, Королева Катя, Новикова Эвелина, Митрофанова Катя.
+
+[афиша безопасность](http://buruhina.ru/wp-content/uploads/2017/06/афиша-безопасность.docx)
+
+Поздравляю!
+
+&nbsp;

@@ -1,0 +1,17 @@
+от {{ page.date | date: "%d" }}
+{% assign m = page.date | date: "%-m" %}
+              {% case m %}
+                {% when '1' %}Янв.
+                {% when '2' %}Фев.
+                {% when '3' %}Мар.
+                {% when '4' %}Апр.
+                {% when '5' %}Май
+                {% when '6' %}Июн.
+                {% when '7' %}Июл.
+                {% when '8' %}Авг.
+                {% when '9' %}Сен.
+                {% when '10' %}Окт.
+                {% when '11' %}Ноя.
+                {% when '12' %}Дек.
+              {% endcase %}
+{{ page.date | date: "%Y" }}
