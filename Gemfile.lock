@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/sverrirs/jekyll-paginate-v2.git
+  revision: f8664cf68b59de823b88d4e6b1b985457f2c13af
+  specs:
+    jekyll-paginate-v2 (2.1.0)
+      jekyll (>= 3.0, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -131,6 +138,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-feed (~> 0.12)
   jekyll-gist
+  jekyll-paginate-v2!
   minima (~> 2.5)
   octopress-debugger
   tzinfo (~> 1.2)
