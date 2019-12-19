@@ -1,15 +1,7 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h2>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h2>
-      <p class="lead">{{ site.description }}</p>
-    </div>
-
     <nav class="sidebar-nav">
+      <h2 class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}">Страницы</h2>
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
