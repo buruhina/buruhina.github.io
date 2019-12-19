@@ -17,7 +17,7 @@ while IFS=':' read -r key value; do
      esac
 done < <(curl -i https://api.selcdn.ru/auth/v1.0 -H "X-Auth-User:${SEL_USER}" -H "X-Auth-Key:${SEL_PASS}")
 
-curl -i -XPUT https://api.selcdn.ru/v1/SEL_"${SEL_ACCOUNT}"/"${SEL_CONTAINER}"/?extract-archive=tar.gz -H "X-Auth-Token: ${SEL_TOKEN}" -T _site/b.tar.gz
+curl -i -XPUT --progress-bar https://api.selcdn.ru/v1/SEL_"${SEL_ACCOUNT}"/"${SEL_CONTAINER}"/?extract-archive=tar.gz -H "X-Auth-Token: ${SEL_TOKEN}" -T _site/b.tar.gz
 
 rm -rf _site
 
