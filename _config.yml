@@ -47,7 +47,7 @@ prose:
           value: false
       - name: "categories"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Выбрать категорию"
           placeholder: "категория"
           options:
