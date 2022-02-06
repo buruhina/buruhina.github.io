@@ -35,6 +35,11 @@ prose:
           element: "text"
           label: "Заголовок"
           value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Публиковать"
+          value: false
       - name: "categories"
         field:
           element: "multiselect"
