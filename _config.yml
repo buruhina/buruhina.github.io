@@ -25,6 +25,14 @@ excerpt_separator: <!--more-->
 
 prose:
   metadata:
+      - name: "categories"
+      field:
+        element: "select"
+        label: "Выбрать категорию"
+        placeholder: "категория"
+        options:
+          - name: "Будем красивыми"
+            value: "budem-krasivymi"
     _posts:
       - name: "layout"
         field:
