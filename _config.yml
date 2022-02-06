@@ -23,12 +23,6 @@ excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-admin
-  - jekyll-gist
-  - jekyll-paginate-v2
   
 # Exclude from processing.
 exclude:
