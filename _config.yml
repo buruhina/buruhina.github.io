@@ -30,11 +30,6 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Заголовок"
-          value: ""
       - name: "published"
         field:
           element: "checkbox"
