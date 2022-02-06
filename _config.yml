@@ -41,10 +41,10 @@ prose:
           label: "Выбрать категорию"
           placeholder: "категория"
           options:
-            - name: "budem-krasivymi"
+            - name: "Будем красивыми"
               value: "Будем красивыми"
-            - name: "budem-zdorovymi"
-              value: "Будем красивыми"
+            - name: "Будем здоровыми"
+              value: "Будем здоровыми"
 
 ignore:
     - index.md
