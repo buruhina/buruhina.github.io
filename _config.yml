@@ -17,7 +17,6 @@ url: "https://buruhina.github.io" # the base hostname & protocol for your site, 
 plugins: ["jekyll-paginate"]
 
 paginate: 10
-paginate_path: "/page:num/"
 
 collections:
   category:
