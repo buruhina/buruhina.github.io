@@ -35,16 +35,6 @@ prose:
           element: "text"
           label: "Заголовок"
           value: ""
-      - name: "photo_url"
-        field:
-          element: "text"
-          label: "450x450 Picture Thumb for index"
-          value: ""
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Публиковать"
-          value: false
       - name: "categories"
         field:
           element: "multiselect"
