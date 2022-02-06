@@ -25,14 +25,6 @@ excerpt_separator: <!--more-->
 
 prose:
   metadata:
-      - name: "categories"
-        field:
-          element: "select"
-          label: "Выбрать категорию"
-          placeholder: "категория"
-          options:
-            - name: "Будем красивыми"
-              value: "budem-krasivymi"
     _posts:
       - name: "layout"
         field:
@@ -53,6 +45,14 @@ prose:
           element: "checkbox"
           label: "Публиковать"
           value: false
+      - name: "categories"
+        field:
+          element: "select"
+          label: "Выбрать категорию"
+          placeholder: "категория"
+          options:
+            - name: "Будем красивыми"
+              value: "budem-krasivymi"
 
 ignore: ['_config.yml']
 
