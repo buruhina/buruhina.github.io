@@ -46,7 +46,11 @@ prose:
             - name: "Будем здоровыми"
               value: "budem-zdorovymi"
 
-ignore: ['_config.yml']
+ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
 
 # Build settings
 theme: minima
