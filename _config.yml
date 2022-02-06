@@ -53,6 +53,8 @@ prose:
           options:
             - name: "Будем красивыми"
               value: "budem-krasivymi"
+            - name: "Будем здоровыми"
+              value: "budem-zdorovymi"
 
 ignore: ['_config.yml']
 
